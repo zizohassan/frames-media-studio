@@ -29,7 +29,7 @@ import (
 )
 
 const (
-	addr     = ":8080"
+	addr     = ":5060"
 	workRoot = "./work"
 )
 
